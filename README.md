@@ -4,23 +4,25 @@ to be held in conjunction with the 28th International Conference on Intelligent 
 
 
 ## Workshop Topic
-Today’s music ecosystem is permeated by digital technology — from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
+Today’s music ecosystem is permeated by digital technology—from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
 
-Both ends of the music market therefore heavily rely on and benefit from intelligent approaches that enable users to access sound and music in unprecedented manners. This ongoing trend draws from various areas such as interactive machine learning, music information retrieval (MIR) — in particular content-based retrieval systems, recommender systems, human computer interaction, and adaptive systems, to name but a few prominent examples. Following the successful first two editions held in Tokyo 2018 and Los Angeles 2019, the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2023) will again bring together researchers from these communities and provide a forum for the latest trends in user-centric machine learning and interfaces for music consumption and creation.
+Since the workshop’s first two editions in Tokyo 2018 and Los Angeles 2019, we have witnessed a drastic technical evolution and, reflecting this trend, an increase in volume of works dealing with music listening and creation interfaces. In addition to technical developments, we now see further challenges arising wrt. gaining deeper understandings of user intent, in the area of human-AI co-creation, and in building systems for automatic curation of generated contents. To address these and other challenges, the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2023) will again bring together researchers from and beyond the music information retrieval (MIR)—in particular content-based retrieval, recommender systems, machine learning, human computer interaction, and adaptive systems communities. 
 
 Topics of interest include, but are not limited to:
 - Music and audio search and browsing interfaces
 - Music and audio recommender systems
 - Intelligent systems for music composition and co-creation
-- Adaptive and interactive music user interfaces
+- Cross-modal music retrieval and generation
+- Automatic content curation systems
+- Models and studies of user intent in music listening and creation
 - Music learning interfaces
 - Gamification in music interfaces
-- Novel visualization paradigms
 - New technologies for human expression, creativity, and embodied interaction
 - Machine learning for new digital musical instruments 
 - Gestural interfaces for music creation and listening
 - Accessible music making technologies
 - User modeling for personalized music interfaces
+
 
 ## Important Dates (all deadlines 23:59 Anywhere on Earth)
 - Workshop Submissions: Monday, 2 January, 2023
