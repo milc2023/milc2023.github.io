@@ -27,7 +27,6 @@ Topics of interest include, but are not limited to:
 ## Important Dates (all deadlines 23:59 Anywhere on Earth)
 - Workshop Submissions: Monday, 2 January, 2023
 - Notifications to authors: Friday, 29 January, 2023
-- Camera-ready for Workshop/Tutorial summary: Wednesday, 8 February, 2023
 - Conference dates: 27-31 March, 2023
 
 ## Organizers:
@@ -49,7 +48,7 @@ We solicit two types of submissions:
 
 *Long papers* are intended to describe research results with developed methodological and evaluation procedures, as well as practical works dealing with applications, systems, frameworks, or libraries advancing the areas mentioned as topics of interest. For these papers, optionally, an additional demo can be presented at a designated workshop session. For long papers, please anonymize your submission (_double-blind reviewing policy_) and submit your paper via [CMT](https://cmt3.research.microsoft.com/MILC2023/). 
 
-All papers must be original and not simultaneously submitted to another journal or conference. Submission of published pre-prints is not encouraged. However, submissions will be considered for review, with the limitation that anonymity to reviewers might be violated. Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop.
+All papers must be original and not simultaneously submitted to another journal or conference. Submission of published pre-prints is not encouraged. However, submissions will be considered for review, with the limitation that anonymity to reviewers might be violated. Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop. Accepted submissions will be published in the IUI 2023 joint workshop proceedings (through CEUR or similar).
 
 Submission need to be prepared for review using the ACM Conference Proceedings single-column format: we recommend using [Overleaf](https://authors.acm.org/proceedings/production-information/overleaf) or the offline [Latex Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex) using \documentclass[manuscript,review,anonymous]{acmart} as setting, or the [Word Submission Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word).
 
