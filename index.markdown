@@ -3,12 +3,8 @@ layout: home
 title:  "Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)"
 date:   2022-11-16 21:03:49 -0500
 ---
-to be held in conjunction with the 28th International Conference on Intelligent User Interfaces ([IUI 2023](http://iui.acm.org/2023/)), Sydney, Australia
 
-
-<p align="center">
-  <img src="MILC_plain.png">
-</p>
+To be held in conjunction with the 28th International Conference on Intelligent User Interfaces ([IUI 2023](http://iui.acm.org/2023/)), Sydney, Australia
 
 ## Workshop Topic
 Today’s music ecosystem is permeated by digital technology—from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
@@ -58,6 +54,6 @@ We solicit two types of submissions:
 
 All papers must be original and not simultaneously submitted to another journal or conference. Submission of published pre-prints is not encouraged. However, submissions will be considered for review, with the limitation that anonymity to reviewers might be violated. Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop.
 
-Submission need to be prepared for review using the ACM Conference Proceedings single-column format: we recommend using [Overleaf](https://authors.acm.org/proceedings/production-information/overleaf) or the offline [Latex Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex) using \documentclass[manuscript,review,anonymous]{acmart} as setting, or the [Word Submission Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word).
+Submission need to be prepared for review using the ACM Conference Proceedings single-column format: we recommend using [Overleaf](https://authors.acm.org/proceedings/production-information/overleaf) or the offline [Latex Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex) using `\documentclass[manuscript,review,anonymous]{acmart}` as setting, or the [Word Submission Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word).
 
 
