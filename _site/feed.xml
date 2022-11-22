@@ -1,61 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-16T22:29:34-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MILC 2023</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)</title><link href="http://localhost:4000/jekyll/update/2022/11/16/MILC.html" rel="alternate" type="text/html" title="Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)" /><published>2022-11-16T21:03:49-05:00</published><updated>2022-11-16T21:03:49-05:00</updated><id>http://localhost:4000/jekyll/update/2022/11/16/MILC</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/16/MILC.html">&lt;h2 id=&quot;welcome-to-the-3rd-workshop-on-intelligent-music-interfaces-for-listening-and-creation-milc&quot;&gt;Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-22T14:40:14-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MILC 2023</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)</title><link href="http://localhost:4000/jekyll/update/2022/11/16/MILC.html" rel="alternate" type="text/html" title="Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)" /><published>2022-11-16T21:03:49-05:00</published><updated>2022-11-16T21:03:49-05:00</updated><id>http://localhost:4000/jekyll/update/2022/11/16/MILC</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/11/16/MILC.html"><![CDATA[## Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)
 
-&lt;p&gt;to be held in conjunction with the 28th International Conference on Intelligent User Interfaces (&lt;a href=&quot;http://iui.acm.org/2023/&quot;&gt;IUI 2023&lt;/a&gt;), Sydney, Australia&lt;/p&gt;
+to be held in conjunction with the 28th International Conference on Intelligent User Interfaces ([IUI 2023](http://iui.acm.org/2023/)), Sydney, Australia
 
-&lt;h2 id=&quot;workshop-topic&quot;&gt;Workshop Topic&lt;/h2&gt;
-&lt;p&gt;Today’s music ecosystem is permeated by digital technology—from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.&lt;/p&gt;
 
-&lt;p&gt;Since the workshop’s first two editions in Tokyo 2018 and Los Angeles 2019, we have witnessed a drastic technical evolution and, reflecting this trend, an increase in volume of works dealing with music listening and creation interfaces. In addition to technical developments, we now see further challenges arising wrt. gaining deeper understandings of user intent, in the area of human-AI co-creation, and in building systems for automatic curation of generated contents. To address these and other challenges, the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2023) will again bring together researchers from the music information retrieval (MIR)—in particular content-based retrieval, recommender systems, machine learning, human computer interaction, and adaptive systems communities and beyond.&lt;/p&gt;
+## Workshop Topic
+Today’s music ecosystem is permeated by digital technology—from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
 
-&lt;p&gt;Topics of interest include, but are not limited to:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Music and audio search and browsing interfaces&lt;/li&gt;
-  &lt;li&gt;Music and audio recommender systems&lt;/li&gt;
-  &lt;li&gt;Intelligent systems for music composition and co-creation&lt;/li&gt;
-  &lt;li&gt;Cross-modal music retrieval and generation&lt;/li&gt;
-  &lt;li&gt;Automatic content curation systems&lt;/li&gt;
-  &lt;li&gt;Models and studies of user intent in music listening and creation&lt;/li&gt;
-  &lt;li&gt;Music learning interfaces&lt;/li&gt;
-  &lt;li&gt;Gamification in music interfaces&lt;/li&gt;
-  &lt;li&gt;New technologies for human expression, creativity, and embodied interaction&lt;/li&gt;
-  &lt;li&gt;Machine learning for new digital musical instruments&lt;/li&gt;
-  &lt;li&gt;Gestural interfaces for music creation and listening&lt;/li&gt;
-  &lt;li&gt;Accessible music making technologies&lt;/li&gt;
-  &lt;li&gt;User modeling for personalized music interfaces&lt;/li&gt;
-&lt;/ul&gt;
+Since the workshop’s first two editions in Tokyo 2018 and Los Angeles 2019, we have witnessed a drastic technical evolution and, reflecting this trend, an increase in volume of works dealing with music listening and creation interfaces. In addition to technical developments, we now see further challenges arising wrt. gaining deeper understandings of user intent, in the area of human-AI co-creation, and in building systems for automatic curation of generated contents. To address these and other challenges, the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC 2023) will again bring together researchers from the music information retrieval (MIR)—in particular content-based retrieval, recommender systems, machine learning, human computer interaction, and adaptive systems communities and beyond. 
 
-&lt;h2 id=&quot;important-dates-all-deadlines-2359-anywhere-on-earth&quot;&gt;Important Dates (all deadlines 23:59 Anywhere on Earth)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Workshop Submissions: Monday, 2 January, 2023&lt;/li&gt;
-  &lt;li&gt;Notifications to authors: Friday, 29 January, 2023&lt;/li&gt;
-  &lt;li&gt;Camera-ready for Workshop/Tutorial summary: Wednesday, 8 February, 2023&lt;/li&gt;
-  &lt;li&gt;Conference dates: 27-31 March, 2023&lt;/li&gt;
-&lt;/ul&gt;
+Topics of interest include, but are not limited to:
+- Music and audio search and browsing interfaces
+- Music and audio recommender systems
+- Intelligent systems for music composition and co-creation
+- Cross-modal music retrieval and generation
+- Automatic content curation systems
+- Models and studies of user intent in music listening and creation
+- Music learning interfaces
+- Gamification in music interfaces
+- New technologies for human expression, creativity, and embodied interaction
+- Machine learning for new digital musical instruments 
+- Gestural interfaces for music creation and listening
+- Accessible music making technologies
+- User modeling for personalized music interfaces
 
-&lt;h2 id=&quot;organizers&quot;&gt;Organizers:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ifs.tuwien.ac.at/~knees/&quot;&gt;Peter Knees&lt;/a&gt;, TU Wien, Austria&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://music.gatech.edu/alexander-lerch&quot;&gt;Alexander Lerch&lt;/a&gt;, Georgia Institute of Technology, USA&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;h2 id=&quot;web-and-technology-chairs&quot;&gt;Web and Technology Chairs:&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;mailto:jsmith775@gatech.edu&quot;&gt;Jason Smith&lt;/a&gt;, Georgia Institute of Technology, USA&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;mailto:ashvala@gatech.edu&quot;&gt;Ashvala Vinay&lt;/a&gt;, Georgia Institute of Technology, USA&lt;/li&gt;
-&lt;/ul&gt;
+## Important Dates (all deadlines 23:59 Anywhere on Earth)
+- Workshop Submissions: Monday, 2 January, 2023
+- Notifications to authors: Friday, 29 January, 2023
+- Camera-ready for Workshop/Tutorial summary: Wednesday, 8 February, 2023
+- Conference dates: 27-31 March, 2023
 
-&lt;h2 id=&quot;submissions&quot;&gt;Submissions&lt;/h2&gt;
-&lt;p&gt;We solicit two types of submissions:&lt;/p&gt;
+## Organizers:
+- [Peter Knees](https://www.ifs.tuwien.ac.at/~knees/), TU Wien, Austria
+- [Alexander Lerch](https://music.gatech.edu/alexander-lerch), Georgia Institute of Technology, USA
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vision and position papers&lt;/strong&gt; (up to 2 pages + references)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Long papers&lt;/strong&gt; (up to 8 pages + references)&lt;/li&gt;
-&lt;/ul&gt;
+## Web and Technology Chairs:
+- [Jason Smith](mailto:jsmith775@gatech.edu), Georgia Institute of Technology, USA
+- [Ashvala Vinay](mailto:ashvala@gatech.edu), Georgia Institute of Technology, USA
 
-&lt;p&gt;&lt;em&gt;Vision and position papers&lt;/em&gt; may describe ongoing work that has not led to substantial results yet, research projects, or envisioned directions of research in interfaces for music listening and creation. For vision and position papers, we adopt a &lt;em&gt;single-blind reviewing policy&lt;/em&gt;, i.e. author anonymization is not required prior to submitting your paper via &lt;a href=&quot;https://cmt3.research.microsoft.com/MILC2023/&quot;&gt;CMT&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Long papers&lt;/em&gt; are intended to describe research results with developed methodological and evaluation procedures, as well as practical works dealing with applications, systems, frameworks, or libraries advancing the areas mentioned as topics of interest. For these papers, optionally, an additional demo can be presented at a designated workshop session. For long papers, please anonymize your submission (&lt;em&gt;double-blind reviewing policy&lt;/em&gt;) and submit your paper via &lt;a href=&quot;https://cmt3.research.microsoft.com/MILC2023/&quot;&gt;CMT&lt;/a&gt;.&lt;/p&gt;
+## Submissions
+We solicit two types of submissions:
 
-&lt;p&gt;All papers must be original and not simultaneously submitted to another journal or conference. Submission of published pre-prints is not encouraged. However, submissions will be considered for review, with the limitation that anonymity to reviewers might be violated. Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop.&lt;/p&gt;
+- **Vision and position papers** (up to 2 pages + references)
+- **Long papers** (up to 8 pages + references)
 
-&lt;p&gt;Submission need to be prepared for review using the ACM Conference Proceedings single-column format: we recommend using &lt;a href=&quot;https://authors.acm.org/proceedings/production-information/overleaf&quot;&gt;Overleaf&lt;/a&gt; or the offline &lt;a href=&quot;https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex&quot;&gt;Latex Template&lt;/a&gt; using \documentclass[manuscript,review,anonymous]{acmart} as setting, or the &lt;a href=&quot;https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word&quot;&gt;Word Submission Template&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)</summary></entry></feed>
+*Vision and position papers* may describe ongoing work that has not led to substantial results yet, research projects, or envisioned directions of research in interfaces for music listening and creation. For vision and position papers, we adopt a _single-blind reviewing policy_, i.e. author anonymization is not required prior to submitting your paper via [CMT](https://cmt3.research.microsoft.com/MILC2023/). 
+
+*Long papers* are intended to describe research results with developed methodological and evaluation procedures, as well as practical works dealing with applications, systems, frameworks, or libraries advancing the areas mentioned as topics of interest. For these papers, optionally, an additional demo can be presented at a designated workshop session. For long papers, please anonymize your submission (_double-blind reviewing policy_) and submit your paper via [CMT](https://cmt3.research.microsoft.com/MILC2023/). 
+
+All papers must be original and not simultaneously submitted to another journal or conference. Submission of published pre-prints is not encouraged. However, submissions will be considered for review, with the limitation that anonymity to reviewers might be violated. Submissions will be reviewed by at least three members of the program committee. Authors of accepted submissions will be required to attend and give a presentation at the workshop.
+
+Submission need to be prepared for review using the ACM Conference Proceedings single-column format: we recommend using [Overleaf](https://authors.acm.org/proceedings/production-information/overleaf) or the offline [Latex Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-latex) using \documentclass[manuscript,review,anonymous]{acmart} as setting, or the [Word Submission Template](https://authors.acm.org/proceedings/production-information/preparing-your-article-with-microsoft-word).]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Welcome to the 3rd Workshop on Intelligent Music Interfaces for Listening and Creation (MILC)]]></summary></entry></feed>
