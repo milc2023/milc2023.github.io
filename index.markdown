@@ -6,6 +6,10 @@ date:   2022-11-16 21:03:49 -0500
 to be held in conjunction with the 28th International Conference on Intelligent User Interfaces ([IUI 2023](http://iui.acm.org/2023/)), Sydney, Australia
 
 
+<p align="center">
+  <img src="MILC_plain.png">
+</p>
+
 ## Workshop Topic
 Today’s music ecosystem is permeated by digital technology—from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
 
