@@ -24,10 +24,11 @@ Topics of interest include, but are not limited to:
 - User modeling for personalized music interfaces
 
 
-## Important Dates (all deadlines 23:59 Anywhere on Earth)
-- Workshop Submissions: Monday, 2 January, 2023
+## Important Dates (updated!)
+- Workshop Submissions: Monday, 9 January, 2023
 - Notifications to authors: Friday, 29 January, 2023
-- Conference dates: 27-31 March, 2023
+- Conference dates: Monday, 27 March, 2023
+All deadlines 23:59 Anywhere on Earth.
 
 ## Organizers:
 - [Peter Knees](https://www.ifs.tuwien.ac.at/~knees/), TU Wien, Austria
