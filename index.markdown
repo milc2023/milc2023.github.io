@@ -34,9 +34,9 @@ Topics of interest include, but are not limited to:
 ## Organizers:
 - [Peter Knees](https://www.ifs.tuwien.ac.at/~knees/), TU Wien, Austria
 - [Alexander Lerch](https://music.gatech.edu/alexander-lerch), Georgia Institute of Technology, USA
+- Jason Smith, Georgia Institute of Technology, USA
 
 ## Web and Technology Chairs:
-- Jason Smith, Georgia Institute of Technology, USA
 - Ashvala Vinay, Georgia Institute of Technology, USA
 
 
