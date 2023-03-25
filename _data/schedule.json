@@ -1,0 +1,50 @@
+[ 
+    {
+        "id": 1,
+        "start_time": "2023-03-27T21:30:00Z",        
+        "end_time": "2023-03-27T21:45:00Z",
+        "title": "Opening"
+    },
+    {
+        "id": 2,
+        "start_time": "2023-03-27T21:45:00Z",        
+        "end_time": "2023-03-27T22:15:00Z",
+        "title": "The Impact of Salient Musical Features in a Hybrid Recommendation System for a Sound Library"
+    },
+    {
+        "id": 3, 
+        "start_time": "2023-03-27T22:15:00Z",
+        "end_time": "2023-03-27T22:35:00Z",
+        "title": "Toward a Tool for Music Personalization for Cochlear Implant Users"
+    },
+    {
+        "id": 4, 
+        "start_time": "2023-03-27T22:35:00Z",
+        "end_time": "2023-03-27T22:55:00Z",
+        "title": "EmoMusic: A New Fun and Interactive Way to Listen to Music"
+    },
+    {
+        "id": 5, 
+        "start_time": "2023-03-27T22:55:00Z",
+        "end_time": "2023-03-27T13:15:00Z",
+        "title": "Composing with Generative Systems in the Digital Audio Workstation"
+    },
+    {
+        "id": 6,
+        "start_time": "2023-03-28T13:15:00Z",        
+        "end_time": "2023-03-28T00:00:00Z",
+        "title": "Break"
+    },
+    {
+        "id": 7,
+        "start_time": "2023-03-28T00:00:00Z",        
+        "end_time": "2023-03-28T01:15:00Z",
+        "title": "Panel Discussion"
+    },
+    {
+        "id": 8,
+        "start_time": "2023-03-28T01:15:00Z",        
+        "end_time": "2023-03-28T01:30:00Z",
+        "title": "Closing"
+    }
+]

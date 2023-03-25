@@ -1,0 +1,44 @@
+<div>
+
+    <p> Schedule shown in your estimated timezone (<span id="tz"></span>) </p>
+
+
+    {% for item in site.data.schedule %}
+    <div class="row">
+        <div class="col-2"> <span class="start_time"> {{ item.start_time }} </span> <br /> <span class="end_time">
+                {{ item.end_time }} </span> </div>
+
+        <div class="col-4"> <i> {{ item.title }} </i> </div>
+        <hr class="horizontal_line" />
+    </div>
+
+    {%endfor%}
+
+</div>
+
+<!-- parse start_time and end_time with momentjs timezone and display according to estimated locale-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment-with-locales.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.42/moment-timezone-with-data-1970-2030.min.js"
+    integrity="sha512-4mNwsLRQO8SAgycCmwCqrEXXS9zFD6x2LVwbnsoSjztZgF1Sxblz/amWX2gXsVAc/3mihZyJ3uTn2RdNLQUI/Q=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function (event) {
+        var start_times = document.getElementsByClassName("start_time");
+        var end_times = document.getElementsByClassName("end_time");
+       const tz = moment.tz.guess();
+        // const tz = "Australia/Sydney"
+        document.getElementById("tz").innerHTML = tz;
+        for (var i = 0; i < start_times.length; i++) {
+            var start_time = start_times[i].innerHTML;
+            start_time = start_time.replace(/\s/g, '');
+            var end_time = end_times[i].innerHTML;
+            end_time = end_time.replace(/\s/g, '');
+            var start_time_moment = moment(start_time);
+            var end_time_moment = moment(end_time);
+            start_time_moment.tz(tz);
+            end_time_moment.tz(tz);
+            start_times[i].innerHTML = start_time_moment.format("MM/DD HH:mm z");
+            end_times[i].innerHTML = end_time_moment.format("MM/DD HH:mm z");
+        }
+    });
+</script>
