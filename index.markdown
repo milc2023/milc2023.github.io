@@ -12,14 +12,18 @@ Monday, 27 March, 2023, 8:30 am - 12:30 pm AEDT (GMT+11), Hybrid: Room (CB10.05.
 
 - 8:30 - 8:45 Opening
 - 8:45 - 10:15 Paper session: Presentations + Demos
-    - The Impact of Salient Musical Features in a Hybrid Recommendation System for a Sound Library (30 min, e.g., 15 min talk + 15 min demo)
-    - Toward a Tool for Music Personalization for Cochlear Implant Users (20 min, e.g., 10 min talk + 10 min demo)
-    - EmoMusic: A New Fun and Interactive Way to Listen to Music (20 min, e.g., 10 min talk + 10 min demo)
-    - Composing with Generative Systems in the Digital Audio Workstation (20 min, e.g., 10 min talk + 10 min demo)
+    - [The Impact of Salient Musical Features in a Hybrid Recommendation System for a Sound Library](https://ceur-ws.org/Vol-3359/paper18.pdf) *by Jason Brent Smith, Ashvala Vinay, Jason Freeman* (30 min, e.g., 15 min talk + 15 min demo)
+    - [Toward a Tool for Music Personalization for Cochlear Implant Users](https://ceur-ws.org/Vol-3359/paper16.pdf) *by Lloyd May, Aaron Hodges, So Yeon Park, Blair Kaneshiro, Jonathan Berger* (20 min, e.g., 10 min talk + 10 min demo)
+    - [EmoMusic: A New Fun and Interactive Way to Listen to Music](https://ceur-ws.org/Vol-3359/paper17.pdf) *by Aman Shukla, Gus Xia* (20 min, e.g., 10 min talk + 10 min demo)
+    - [Composing with Generative Systems in the Digital Audio Workstation](https://ceur-ws.org/Vol-3359/paper15.pdf) *by Ian Clester, Jason Freeman* (20 min, e.g., 10 min talk + 10 min demo)
  
 - 10:15 - 11:00 Break
 - 11:00 - 12:15 Round Table Discussion (all participants)
 - 12:15 Closing 
+
+## Proceedings
+
+Workshop papers are published in the [IUI-WS 23 - Workshops at the International Conference on Intelligent User Interfaces (IUI) 2023](https://ceur-ws.org/Vol-3359/) proceedings.
 
 
 ## Workshop Topic
