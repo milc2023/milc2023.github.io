@@ -5,6 +5,23 @@ date:   2023-01-06 21:23:49 +0100
 ---
 
 To be held in conjunction with the 28th International Conference on Intelligent User Interfaces ([IUI 2023](http://iui.acm.org/2023/)), Sydney, Australia
+
+## Program
+
+Monday, 27 March, 2023, 8:30 am - 12:30 pm AEDT (GMT+11), Hybrid: Room (CB10.05.580) and on [Zoom](https://tuwien.zoom.us/j/62331607904?pwd=dXJySkY5ZXgzYjdHQkRDMGtCTkxjZz09)
+
+- 8:30 - 8:45 Opening
+- 8:45 - 10:15 Paper session: Presentations + Demos
+ - The Impact of Salient Musical Features in a Hybrid Recommendation System for a Sound Library (30 min, e.g., 15 min talk + 15 min demo)
+ - Toward a Tool for Music Personalization for Cochlear Implant Users (20 min, e.g., 10 min talk + 10 min demo)
+ - EmoMusic: A New Fun and Interactive Way to Listen to Music (20 min, e.g., 10 min talk + 10 min demo)
+ - Composing with Generative Systems in the Digital Audio Workstation (20 min, e.g., 10 min talk + 10 min demo)
+ 
+- 10:15 - 11:00 Break
+- 11:00 - 12:15 Round Table Discussion (all participants)
+- 12:15 Closing 
+
+
 ## Workshop Topic
 Today’s music ecosystem is permeated by digital technology—from recording to production to distribution to consumption. Intelligent technologies and interfaces play a crucial role during all these steps. On the music creation side, tools and interfaces like new sensor-based musical instruments or software like digital audio workstations (DAWs) and sound and sample browsers support creativity. Generative systems can support novice and professional musicians by automatically synthesizing new sounds or even new musical material. On the music consumption side, tools and interfaces such as recommender systems, automatic radio stations, or active listening applications allow users to navigate the virtually endless spaces of music repositories.
 
@@ -27,20 +44,32 @@ Topics of interest include, but are not limited to:
 
 
 ## Important Dates (updated!)
-- Workshop Submissions: Monday, 9 January, 2023 (23:59 Anywhere on Earth)
-- Notifications to authors: ~~Sunday, 29 January, 2023~~ Monday, 6 February, 2023
+- Workshop Submissions: ~~Monday, 9 January, 2023 (23:59 Anywhere on Earth)~~
+- Notifications to authors: ~~Sunday, 29 January, 2023~~ ~~Monday, 6 February, 2023~~
 - Conference dates: Monday, 27 March, 2023
 
 ## Organizers:
 - [Peter Knees](https://www.ifs.tuwien.ac.at/~knees/), TU Wien, Austria
 - [Alexander Lerch](https://music.gatech.edu/alexander-lerch), Georgia Institute of Technology, USA
-- Jason Smith, Georgia Institute of Technology, USA
 
 ## Web and Technology Chairs:
+- Jason Smith, Georgia Institute of Technology, USA
 - Ashvala Vinay, Georgia Institute of Technology, USA
+
+## Program Committee:
+- Bruce Ferwerda, Jönköping University
+- Fabien Gouyon, Pandora Inc.
+- Masataka Goto, AIST Japan
+- Dietmar Jannach, AAU Klagenfurt
+- Jason Smith, Georgia Tech
+- Koray Tehiroğlu, Aalto University
+- Ashvala Vinay, Georgia Tech
 
 
 ## Submissions
+
+*Submission is now closed*
+
 We solicit two types of submissions:
 
 - **Vision and position papers** (up to 2 pages + references)
